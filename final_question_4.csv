@@ -1,44 +1,44 @@
-publisher,paper
-AAAI,421
-AAAI Press,5208
-AAAI Press / The MIT Press,929
-ACL,315
-ACM,45872
-ACM Press,136
-ACM/SIAM,498
-Australian Computer Society,32
-CEUR-WS.org,945
-"CNRS, Toulose, France",17
-CWI/ACM,28
-EasyChair,150
-IEEE,6632
-IEEE Computer Society,24377
-IEEE Copmuter Society,9
-IEEE/ACM,36
-IFIP,17
-IJCAI/AAAI,986
-IJCAI/AAAI Press,658
-International World Wide Web Conferences Steering Committee / ACM,449
-JMLR.org,1482
-"Matfyz Press, Vydavatelstvi, Matematicko-Fyzikalni Fakulty, Unverzity Karlovy",27
-Matfyzpress,17
-Morgan Kaufmann,1316
-Morgan Kaufmann Publishers,70
-Omnipress,410
-OpenProceedings.org,283
-Professional Book Center,350
-SIAM,1654
-Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik,1399
-"Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany",117
-"Slovak University of Technology, Bratislava",21
-Springer,18420
-Tampere University of Technology. Pori. Publication,20
-The Association for Computational Linguistics,207
-The Association for Computer Linguistics,3258
-UNKNOWN,1526
-USENIX,111
-USENIX Association,747
-University of Alberta,39
-University of Magdeburg,8
-VLDB Endowment,13
-icml.cc / Omnipress,243
+,publisher,total_papers
+0,AAAI,421
+1,AAAI Press,5208
+2,AAAI Press / The MIT Press,929
+3,ACL,315
+4,ACM,45872
+5,ACM Press,136
+6,ACM/SIAM,498
+7,Australian Computer Society,32
+8,CEUR-WS.org,945
+9,"CNRS, Toulose, France",17
+10,CWI/ACM,28
+11,EasyChair,150
+12,IEEE,6632
+13,IEEE Computer Society,24377
+14,IEEE Copmuter Society,9
+15,IEEE/ACM,36
+16,IFIP,17
+17,IJCAI/AAAI,986
+18,IJCAI/AAAI Press,658
+19,International World Wide Web Conferences Steering Committee / ACM,449
+20,JMLR.org,1482
+21,"Matfyz Press, Vydavatelstvi, Matematicko-Fyzikalni Fakulty, Unverzity Karlovy",27
+22,Matfyzpress,17
+23,Morgan Kaufmann,1316
+24,Morgan Kaufmann Publishers,70
+25,Omnipress,410
+26,OpenProceedings.org,283
+27,Professional Book Center,350
+28,SIAM,1654
+29,Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik,1399
+30,"Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany",117
+31,"Slovak University of Technology, Bratislava",21
+32,Springer,18420
+33,Tampere University of Technology. Pori. Publication,20
+34,The Association for Computational Linguistics,207
+35,The Association for Computer Linguistics,3258
+36,UNKNOWN,1526
+37,USENIX,111
+38,USENIX Association,747
+39,University of Alberta,39
+40,University of Magdeburg,8
+41,VLDB Endowment,13
+42,icml.cc / Omnipress,243

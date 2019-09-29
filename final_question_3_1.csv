@@ -1,13 +1,13 @@
 Domain,gender,total
-Computer Science,ND,20118
-Computer Science,F,54715
-Computer Science,M,194496
-Data Engineering,ND,5602
-Data Engineering,F,13294
-Data Engineering,M,46990
-Software Engineering,ND,1522
-Software Engineering,F,7401
-Software Engineering,M,29858
-Theory,ND,2865
-Theory,F,8324
-Theory,M,50990
+Computer Science,Unkonwn,20118
+Computer Science,Female,54715
+Computer Science,Male,194496
+Data Engineering,Unkonwn,5602
+Data Engineering,Female,13294
+Data Engineering,Male,46990
+Software Engineering,Unkonwn,1522
+Software Engineering,Female,7401
+Software Engineering,Male,29858
+Theory,Unkonwn,2865
+Theory,Female,8324
+Theory,Male,50990

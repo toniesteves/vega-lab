@@ -1,0 +1,224 @@
+,publisher,year,total_papers
+0,AAAI,2010,114
+1,AAAI,2011,157
+2,AAAI,2013,112
+3,AAAI,2014,38
+4,AAAI Press,2003,116
+5,AAAI Press,2006,385
+6,AAAI Press,2007,368
+7,AAAI Press,2008,356
+8,AAAI Press,2010,313
+9,AAAI Press,2011,319
+10,AAAI Press,2012,353
+11,AAAI Press,2013,251
+12,AAAI Press,2014,492
+13,AAAI Press,2015,1442
+14,AAAI Press,2016,813
+15,AAAI Press / The MIT Press,2000,230
+16,AAAI Press / The MIT Press,2002,180
+17,AAAI Press / The MIT Press,2004,194
+18,AAAI Press / The MIT Press,2005,325
+19,ACL,2000,79
+20,ACL,2002,77
+21,ACL,2003,71
+22,ACL,2004,88
+23,ACM,2000,1101
+24,ACM,2001,1187
+25,ACM,2002,1303
+26,ACM,2003,1303
+27,ACM,2004,1903
+28,ACM,2005,2401
+29,ACM,2006,2493
+30,ACM,2007,2505
+31,ACM,2008,3063
+32,ACM,2009,2924
+33,ACM,2010,3170
+34,ACM,2011,3545
+35,ACM,2012,3430
+36,ACM,2013,3502
+37,ACM,2014,4295
+38,ACM,2015,3440
+39,ACM,2016,4307
+40,ACM Press,2006,136
+41,ACM/SIAM,2000,126
+42,ACM/SIAM,2001,128
+43,ACM/SIAM,2002,129
+44,ACM/SIAM,2003,115
+45,Australian Computer Society,2007,32
+46,CEUR-WS.org,2001,12
+47,CEUR-WS.org,2003,17
+48,CEUR-WS.org,2004,37
+49,CEUR-WS.org,2005,15
+50,CEUR-WS.org,2006,15
+51,CEUR-WS.org,2007,66
+52,CEUR-WS.org,2008,68
+53,CEUR-WS.org,2009,28
+54,CEUR-WS.org,2010,57
+55,CEUR-WS.org,2011,47
+56,CEUR-WS.org,2012,49
+57,CEUR-WS.org,2013,57
+58,CEUR-WS.org,2014,136
+59,CEUR-WS.org,2015,178
+60,CEUR-WS.org,2016,163
+61,"CNRS, Toulose, France",2001,17
+62,CWI/ACM,2013,16
+63,CWI/ACM,2014,12
+64,EasyChair,2012,57
+65,EasyChair,2013,57
+66,EasyChair,2014,4
+67,EasyChair,2015,25
+68,EasyChair,2016,7
+69,IEEE,2000,192
+70,IEEE,2001,192
+71,IEEE,2002,195
+72,IEEE,2003,224
+73,IEEE,2004,261
+74,IEEE,2005,270
+75,IEEE,2006,346
+76,IEEE,2007,394
+77,IEEE,2008,345
+78,IEEE,2009,568
+79,IEEE,2010,378
+80,IEEE,2011,417
+81,IEEE,2012,604
+82,IEEE,2013,650
+83,IEEE,2014,502
+84,IEEE,2015,558
+85,IEEE,2016,536
+86,IEEE Computer Society,2000,565
+87,IEEE Computer Society,2001,989
+88,IEEE Computer Society,2002,527
+89,IEEE Computer Society,2003,1200
+90,IEEE Computer Society,2004,936
+91,IEEE Computer Society,2005,1483
+92,IEEE Computer Society,2006,1360
+93,IEEE Computer Society,2007,1868
+94,IEEE Computer Society,2008,1554
+95,IEEE Computer Society,2009,1740
+96,IEEE Computer Society,2010,1332
+97,IEEE Computer Society,2011,1660
+98,IEEE Computer Society,2012,1704
+99,IEEE Computer Society,2013,2385
+100,IEEE Computer Society,2014,1227
+101,IEEE Computer Society,2015,2732
+102,IEEE Computer Society,2016,1124
+103,IEEE/ACM,2012,36
+104,IFIP,2003,17
+105,IJCAI/AAAI,2011,490
+106,IJCAI/AAAI,2013,496
+107,IJCAI/AAAI Press,2016,658
+108,International World Wide Web Conferences Steering Committee / ACM,2013,449
+109,JMLR.org,2012,3
+110,JMLR.org,2013,334
+111,JMLR.org,2014,387
+112,JMLR.org,2015,366
+113,JMLR.org,2016,392
+114,"Matfyz Press, Vydavatelstvi, Matematicko-Fyzikalni Fakulty, Unverzity Karlovy",2000,27
+115,Matfyzpress,2002,17
+116,Morgan Kaufmann,2000,282
+117,Morgan Kaufmann,2001,385
+118,Morgan Kaufmann,2002,204
+119,Morgan Kaufmann,2003,295
+120,Morgan Kaufmann,2004,150
+121,Morgan Kaufmann Publishers,2001,70
+122,Omnipress,2008,51
+123,Omnipress,2010,207
+124,Omnipress,2011,152
+125,OpenProceedings.org,2014,109
+126,OpenProceedings.org,2015,70
+127,OpenProceedings.org,2016,104
+128,Professional Book Center,2005,350
+129,SIAM,2004,138
+130,SIAM,2005,137
+131,SIAM,2007,139
+132,SIAM,2008,138
+133,SIAM,2009,138
+134,SIAM,2010,135
+135,SIAM,2011,136
+136,SIAM,2012,139
+137,SIAM,2013,135
+138,SIAM,2014,136
+139,SIAM,2015,136
+140,SIAM,2016,147
+141,Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik,2008,37
+142,Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik,2009,40
+143,Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik,2010,103
+144,Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik,2011,103
+145,Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik,2012,108
+146,Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik,2013,106
+147,Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik,2014,113
+148,Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik,2015,241
+149,Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik,2016,548
+150,"Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany",2008,59
+151,"Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany",2009,58
+152,"Slovak University of Technology, Bratislava",2002,21
+153,Springer,2000,818
+154,Springer,2001,843
+155,Springer,2002,1181
+156,Springer,2003,1027
+157,Springer,2004,1359
+158,Springer,2005,1307
+159,Springer,2006,1293
+160,Springer,2007,1243
+161,Springer,2008,1099
+162,Springer,2009,1098
+163,Springer,2010,1191
+164,Springer,2011,1064
+165,Springer,2012,1070
+166,Springer,2013,985
+167,Springer,2014,1163
+168,Springer,2015,1129
+169,Springer,2016,550
+170,Tampere University of Technology. Pori. Publication,2008,20
+171,The Association for Computational Linguistics,2007,207
+172,The Association for Computer Linguistics,2003,41
+173,The Association for Computer Linguistics,2005,134
+174,The Association for Computer Linguistics,2006,307
+175,The Association for Computer Linguistics,2008,219
+176,The Association for Computer Linguistics,2009,241
+177,The Association for Computer Linguistics,2010,267
+178,The Association for Computer Linguistics,2011,349
+179,The Association for Computer Linguistics,2012,226
+180,The Association for Computer Linguistics,2013,398
+181,The Association for Computer Linguistics,2014,352
+182,The Association for Computer Linguistics,2015,363
+183,The Association for Computer Linguistics,2016,361
+184,UNKNOWN,2000,2
+185,UNKNOWN,2001,107
+186,UNKNOWN,2002,13
+187,UNKNOWN,2003,302
+188,UNKNOWN,2004,18
+189,UNKNOWN,2005,53
+190,UNKNOWN,2007,479
+191,UNKNOWN,2009,388
+192,UNKNOWN,2010,7
+193,UNKNOWN,2011,26
+194,UNKNOWN,2012,6
+195,UNKNOWN,2013,15
+196,UNKNOWN,2014,16
+197,UNKNOWN,2015,6
+198,UNKNOWN,2016,88
+199,USENIX,2004,28
+200,USENIX,2005,26
+201,USENIX,2006,29
+202,USENIX,2007,28
+203,USENIX Association,2000,24
+204,USENIX Association,2002,27
+205,USENIX Association,2004,40
+206,USENIX Association,2006,35
+207,USENIX Association,2007,16
+208,USENIX Association,2008,129
+209,USENIX Association,2009,32
+210,USENIX Association,2010,90
+211,USENIX Association,2011,41
+212,USENIX Association,2012,83
+213,USENIX Association,2013,38
+214,USENIX Association,2014,97
+215,USENIX Association,2015,42
+216,USENIX Association,2016,53
+217,University of Alberta,2000,15
+218,University of Alberta,2001,12
+219,University of Alberta,2002,12
+220,University of Magdeburg,2008,8
+221,VLDB Endowment,2009,13
+222,icml.cc / Omnipress,2012,243
